@@ -1,0 +1,16 @@
+#Arthimetic operations
+print(5+7)
+print(5-7)
+print(5*7)
+print(5/7)
+print(5//7)
+
+#using variables
+a=123
+b=234
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a**b)
